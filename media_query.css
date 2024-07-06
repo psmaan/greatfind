@@ -1,0 +1,536 @@
+@media (max-width: 576px) {
+    .navbar-brand{
+        display: flex;
+        justify-content: left !important;
+        width: 101px;
+        height: 35.24px;        
+    }
+    .banner-main {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+    .banner {
+        height: auto !important;
+    }
+
+    .left-banner {
+        text-align: center;
+    }
+
+    .left-banner h1 {
+        font-family: Murecho;
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 39.9px;
+        letter-spacing: -0.06em;
+        text-align: center;
+        color: white;
+        padding: 0px 50px !important;
+    }
+
+    .left-banner p {
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22.4px;
+        letter-spacing: -0.06em;
+        text-align: center;
+        color: white;
+        padding: 0px 30px;
+    }
+
+    .right-banner {
+        width: 290.91px;
+        height: 350px;
+        top: 494px;
+        left: 25px;
+        gap: 0px;
+        opacity: 0px;
+        margin: auto;
+        margin-left: 20px;
+    }
+
+    .kate_inside,
+    .your-gf_inside {
+        width: 197.91px;
+        height: 56.39px;
+        top: 669.03px;
+        left: 25px;
+        gap: 0px;
+        border-radius: 13.3px;
+        opacity: 0px;
+    }
+
+    .kate h5,
+    .your-gf h5 {
+        font-family: Inter;
+        font-size: 7.45px;
+        font-weight: 700;
+        line-height: 10.43px;
+        letter-spacing: -0.06em;
+        text-align: left;
+        color: white;
+    }
+
+    .kate img,
+    .your-gf img {
+        width: 41.5px;
+        height: 41.5px;
+        top: 675.95px;
+        left: 38.3px;
+        gap: 0px;
+        border-radius: 266.01px;
+        opacity: 0px;
+
+    }
+
+    .kate p,
+    .your-gf p {
+        font-family: Inter;
+        font-size: 10.64px;
+        font-weight: 400;
+        line-height: 14.9px;
+        letter-spacing: -0.06em;
+        /* text-align: left;         */
+        color: white;
+
+    }
+
+    .great-deal button {
+        color: #74AED9;
+        border-radius: 50px;
+        border-color: #74AED9;
+        align-items: center;
+        padding: 0px 20px;
+        background-color: transparent;
+        font-family: Inter;
+        font-size: 12.77px;
+        font-weight: 400;
+        line-height: 17.88px;
+        letter-spacing: -0.06em;
+        text-align: center;
+
+    }
+
+    .great-deal p {
+        font-size: 7.45px;
+        align-items: center;
+        padding-left: 15px;
+    }
+
+    .blue_beauty h5 {
+        font-size: 7.45px;
+        font-weight: 700;
+    }
+
+    .blue_beauty p {
+        font-size: 7.45px;
+        font-weight: 400;
+        line-height: 0px;
+        padding-right: 15px;
+    }
+
+    .car img {
+        width: 129.81px;
+        height: 97.36px;
+        top: 605.19px;
+        left: 70.3px;
+        gap: 0px;
+        border-radius: 10.64px 0px 0px 0px;
+        opacity: 0px;
+
+    }
+
+    .car4 img {
+        width: 62.25px;
+        height: 46.82px;
+        top: 669.57px;
+        left: 224.05px;
+        gap: 0px;
+        opacity: 0px;
+
+    }
+
+    .car2 img {
+        width: 72.89px;
+        height: 54.8px;
+        top: 605.19px;
+        left: 213.41px;
+        gap: 0px;
+        border-radius: 0px 10.64px 0px 0px;
+        opacity: 0px;
+
+    }
+
+    .car3 img {
+        width: 98.29px;
+        height: 86.49px;
+        top: 716.2px;
+        left: 70.3px;
+        gap: 0px;
+        border-radius: 0px 0px 0px 10.64px;
+        opacity: 0px;
+        margin-top: -10px;
+    }
+
+    .right {
+        margin-bottom: 15px;
+    }
+
+    .right {
+        position: relative;
+    }
+
+    .kate {
+        position: absolute !important;
+        bottom: 100px;
+        left: -10px;
+        gap: 0px;
+        opacity: 0px;
+    }
+
+    .your-gf {
+        position: absolute !important;
+        bottom: 20px;
+        right: -100px;
+        gap: 0px;
+        opacity: 0px;
+    }
+
+    /* main banner end */
+
+    /* section-2 cutting start */
+    .cutting_section {
+        margin: 0px !important;
+        padding-bottom: 30px;
+    }
+
+    .cutting h4 {
+        padding: 10px;
+        margin-top: -40px;
+        font-family: MuseoModerno;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 34.2px;
+        letter-spacing: -0.06em;
+        text-align: left;
+    }
+
+    .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .feature-card h4 {
+        font-family: Inter;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 25.2px;
+        letter-spacing: -0.06em;
+        text-align: left;
+    }
+
+    .feature-card h5 {
+        font-family: MuseoModerno;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 22.8px;
+        letter-spacing: -0.06em;
+        text-align: left;
+    }
+
+    .feature-card p {
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 22.4px;
+        letter-spacing: -0.06em;
+        text-align: left;
+
+    }
+
+    .feature-card {
+        width: 330px;
+        height: 300px;
+        top: 1118px;
+        left: 15px;
+        gap: 0px;
+        border-radius: 30px;
+        opacity: 0px;
+        padding: 25px 15px;
+        margin-top: -40px;
+        margin-bottom: 40px;
+    }
+
+    /* section-2 cutting end */
+
+    /* section-3 real_time start */
+    .real_time {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 15px;
+    }
+
+    .real h2 {
+        font-family: MuseoModerno;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 34.2px;
+        letter-spacing: -0.06em;
+        text-align: left;
+    }
+
+    .real {
+        background: linear-gradient(338.14deg, rgba(116, 174, 217, 0.4) 15.5%, rgba(116, 174, 217, 0) 112.74%);
+        padding: 20px;
+        width: 330px;
+        height: 509px;
+
+    }
+
+    .never_miss {
+        width: 153.53px;
+        height: 161.41px;
+        top: 2366px;
+        left: 64.03px;
+        gap: 0px;
+        border-radius: 10.37px;
+        opacity: 0px;
+        padding: 10px;
+    }
+
+    .never_miss button,
+    .never_car button {
+        font-family: Inter;
+        font-size: 9.96px;
+        font-weight: 400;
+        line-height: 13.94px;
+        letter-spacing: -0.06em;
+        text-align: center;
+        background: linear-gradient(180deg, rgba(116, 174, 217, 0.2) 16.18%, rgba(116, 174, 217, 0) 110.29%);
+        border: 0.41px solid rgba(116, 174, 217, 1)
+    }
+
+    .never_miss p {
+        font-family: Inter;
+        font-size: 5.81px;
+        font-weight: 400;
+        line-height: 8.13px;
+        letter-spacing: -0.06em;
+        text-align: left;
+
+    }
+
+    .never_inside {
+        padding-top: 45px;
+    }
+
+    .never_outside p,
+    .never_outside-2 p,
+    .never_outside-3 p {
+        font-family: Inter;
+        font-size: 8.3px;
+        font-weight: 400;
+        line-height: 11.62px;
+        letter-spacing: -0.06em;
+        text-align: left;
+        padding: 8px 15px;
+    }
+
+    .never_car {
+        padding: 10px 15px;
+
+    }
+
+    .never_outside {
+        position: absolute;
+        bottom: 15px;
+        left: 0px;
+        width: 123.24px;
+        border-radius: 10.37px;
+    }
+
+    .never_outside-3 {
+        position: absolute;
+        top: 30px;
+        right: 20px;
+        width: 123px;
+        border-radius: 10.37px;
+    }
+
+    .never_car {
+        position: absolute;
+        bottom: -60px;
+        right: 10px;
+        width: 153.53px;
+        gap: 0px;
+        border-radius: 10.37px;
+        border: 0.41px 0px 0px 0px;
+        opacity: 0px;
+    }
+
+    .never_outside-2 {
+        position: absolute;
+        bottom: -40px;
+        right: 90px;
+
+    }
+
+    /* -------------------- */
+    .automate-main {
+        width: 196.13px;
+        height: 277.01px;
+        top: 2874px;
+        left: 85px;
+        gap: 0px;
+        opacity: 0px;
+
+    }
+
+    .auto_inside {
+        width: 400px;
+        height: 69px;
+    }
+
+    .auto_inside img {
+        width: 23.69px;
+        height: 21.8px;
+        top: 2261.28px;
+        left: 1236.59px;
+        gap: 0px;
+        border-radius: 11.91px;
+        opacity: 0px;
+        margin-top: -9px;
+        padding: 2px;
+    }
+
+    .auto {
+        width: 200.13px;
+        height: 34.88px;
+        top: 2874px;
+        left: 85px;
+        gap: 0px;
+        border-radius: 12.64px 12.64px 0px 0px;
+        opacity: 0px;
+        margin-left: 45px !important;
+    }
+
+    .automate-inside {
+        margin-left: 45px !important;
+        width: 200.13px;
+        height: 400.01px;
+        top: 2874px;
+        left: 85px;
+        gap: 0px;
+        /* border-radius: ; */
+        opacity: 0px;
+    }
+
+    .auto_inside p {
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.6px;
+        letter-spacing: -0.06em;
+        text-align: right;
+        padding-left: 12px;
+        margin-top: -7px;
+    }
+
+    .auto-1 {
+        width: 160px;
+        height: 45px;
+        gap: 0px;
+        border-radius: 25px 25px 0px 25px;
+        opacity: 0px;
+        padding: 0px 0px;
+        margin: 0px;
+        margin-left: 20px;
+        margin-top: -15px;
+    }
+
+    .auto-2 {
+        padding: 10px 5px;
+        margin: 0px;
+        margin-left: 0px;
+        margin-top: 15px;
+
+    }
+
+    .auto-2 p,
+    .auto-1 p {
+        font-family: Inter;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.6px;
+        letter-spacing: -0.06em;
+        text-align: center;
+        padding: 10px 0px !important;
+        color: #74AED9;
+    }
+
+    .real-2 {
+        width: 330px;
+        height: 700px !important;
+
+    }
+
+    .auto-down {
+        width: 200.13px;
+        height: 23.76px;
+        border-radius: 0px 0px 12.64px 12.64px;
+        opacity: 0px;
+        margin-left: 45px !important;
+
+    }
+
+    .auto_inside_123 {
+        padding-top: -10px;
+        margin: 0px -25px;
+    }
+
+    .auto_inside_123 p {
+        margin-top: -7px;
+    }
+
+    .automate {
+        position: relative;
+    }
+
+    .find_car {
+        position: absolute;
+        top: 115px;
+        left: 10px;
+        width: 150px;
+        height: 53px;
+    }
+
+    .find_car-2 {
+        position: absolute;
+        bottom: -73px;
+        left: 10px;
+    }
+
+    .find_car-3 {
+        position: absolute;
+        top: 200px;
+        right: 10px;
+    }
+
+    .find_car p,
+    .find_car-2 p,
+    .find_car-3 p {
+        font-family: Inter;
+        font-size: 10.11px;
+        font-weight: 400;
+        line-height: 14.15px;
+        letter-spacing: -0.06em;
+        text-align: left;
+        padding: 10px 20px;
+
+    }
+
+    /* section-3 real_time end */
+}
