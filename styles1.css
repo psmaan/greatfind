@@ -615,6 +615,8 @@ left: 170px; */
     background-color: black;
     height: 600px;
     margin-top: 100px;
+    position: relative;
+    top: -100px;
 }
 .chat {
     position: relative;
@@ -1096,7 +1098,7 @@ color: rgba(116, 174, 217, 1);
 }
 
 .h-900 {
-    height: 1035px;
+    height: 893px;
 }
 
 .h-1200 {
