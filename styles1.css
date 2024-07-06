@@ -9,7 +9,7 @@ body {
 /* header start */
 .submit_header button {
     border-color: #74AED9;
-    color: black;
+    color: white;
 }
 
 /* header end */
@@ -60,7 +60,7 @@ body {
 
     margin: 50px 140px;
     padding: 20px;
-    max-width: 462px;
+    max-width: 500px;
     gap: 0px;
     left: 1164px;
     opacity: 0px;
@@ -69,7 +69,7 @@ body {
     color: #74AED9;
     border-radius: 20px;
     top: 247px;
-    width: 462px;
+    width: 500px;
     backdrop-filter: blur(20px);
 }
 
@@ -1165,4 +1165,12 @@ color: rgba(116, 174, 217, 1);
     max-height: 1000px; /* Adjust this value based on your content */
     padding: 15px 15px;
     padding-top: 25px;
+}
+
+.custom-button {
+    padding: 10px 20px;
+    background: transparent;
+    border: 1px solid #74AED9;
+    color: white;
+    border-radius: 40px;
 }
