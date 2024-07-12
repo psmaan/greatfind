@@ -1360,13 +1360,6 @@ color: rgba(116, 174, 217, 1);
     top: 50px;
 }
 
-@media (max-width: 1276px) {
-    .h-900 {
-        height: 1020px;
-    }
-
-}
-
 @media (max-width: 1150px) {
     .automate-phone > div {
         width: 80%;
@@ -1374,10 +1367,11 @@ color: rgba(116, 174, 217, 1);
 }
 
 @media (max-width: 1276px) {
-    .h-900 {
-        height: 1080px;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
+    .real {
+        border-radius: 30px;
+    }
+    .main_real {
+        transform: scale(0.9);
     }
 
 }
@@ -1389,6 +1383,9 @@ color: rgba(116, 174, 217, 1);
 
 @media (max-width: 1100px) {
     .discover-image {
+        transform: scale(0.8);
+    }
+    .main_real {
         transform: scale(0.8);
     }
 }
@@ -1460,6 +1457,9 @@ color: rgba(116, 174, 217, 1);
     .right-banner {
         margin-top: 20px
 
+    }
+    .main_real {
+        transform: scale(1);
     }
 }
 @media (max-width: 760px) {
