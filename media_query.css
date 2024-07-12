@@ -1,4 +1,4 @@
-@media (max-width: 576px) {
+@media (max-width: 57px) {
     .navbar-brand{
         display: flex;
         justify-content: left !important;
@@ -12,7 +12,7 @@
     }
 
     .banner {
-        height: auto !important;
+        height: auto;
     }
 
     .left-banner {
@@ -42,7 +42,7 @@
     }
 
     .right-banner {
-        width: 290.91px;
+        width: 320.91px;
         height: 350px;
         top: 494px;
         left: 25px;
